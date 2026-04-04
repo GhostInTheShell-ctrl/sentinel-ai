@@ -1,0 +1,3 @@
+venv_real/
+.env
+__pycache__/
