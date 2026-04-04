@@ -6,7 +6,7 @@
 
 **Sentinel-AI** is an autonomous incident response agent built on strict Zero-Trust security principles. It detects latency spikes, quarantines repositories, analyzes the blast radius of bad commits, and requests biometric Admin approval via Auth0 before executing destructive rollbacks.
 
-[👉 Watch the Demo Video Here](#) *(Replace with your YouTube/Devpost link)*
+[👉 Watch the Demo Video Here](#) *(https://drive.google.com/file/d/1OTOFnO5vTD9XF4wFb9yc0epL4vpgjAxb/view?usp=sharing)*
 
 ---
 
